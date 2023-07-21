@@ -8,17 +8,38 @@
         <source media="(prefers-color-scheme: light)" srcset="./icons/python.svg">
         <img alt="Python" height=32 src="./icons/python.svg">
     </picture>
-    <img alt="C" height=32 src="./icons/c.svg">
-    <img alt="JavaScript" height=32 src="./icons/javascript.svg">
-    <img alt="TypeScript" height=32 src="./icons/typescript.svg">
-    <img alt="Java" height=32 src="./icons/java.svg">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./icons/c-white.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./icons/c.svg">
+        <img alt="C" height=32 src="./icons/c.svg">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./icons/javascript-white.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./icons/javascript.svg">
+        <img alt="JavaScript" height=32 src="./icons/javascript.svg">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./icons/typescript-white.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./icons/typescript.svg">
+        <img alt="TypeScript" height=32 src="./icons/typescript.svg">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./icons/java-white.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./icons/java.svg">
+        <img alt="Java" height=32 src="./icons/java.svg">
+    </picture>
     <!--
     <img alt="C++" height=32 src="./icons/cplusplus.svg">
     <img alt="GO" height=32 src="./icons/go.svg">
     -->
-    <img alt="GDScript" height=32 src="./icons/godotengine.svg">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./icons/godotengine-white.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./icons/godotengine.svg">
+        <img alt="GDScript" height=32 src="./icons/godotengine.svg">
+    </picture>
     <!-- Java icon by icons8 -->
 </h6>
+
 
 <!-- web dev -->
 <h3 align="center"> Web Development </h3>
