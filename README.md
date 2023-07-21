@@ -3,7 +3,11 @@
 <!-- programming languages -->
 <h3 align="center"> Programming Languages </h3>
 <h6 align="center">
-    <img alt="Python" height=32 src="./icons/python.svg">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./icons/python-white.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./icons/python.svg">
+        <img alt="Python" height=32 src="./icons/python.svg">
+    </picture>
     <img alt="C" height=32 src="./icons/c.svg">
     <img alt="JavaScript" height=32 src="./icons/javascript.svg">
     <img alt="TypeScript" height=32 src="./icons/typescript.svg">
