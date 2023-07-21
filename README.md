@@ -1,3 +1,11 @@
+<style>
+  
+  img {
+    filter: invert(1);
+  }
+  
+</style>
+
 
 <h1 align="center"> iPolarisu </h1>
 
