@@ -15,6 +15,7 @@
     <img alt="React" height=32 src="./icons/react.svg">
     <img alt="Django" height=32 src="./icons/django.svg">
     <img alt="Express" height=32 src="./icons/express.svg">
+    <img alt="Bootstrap" height=32 src="./icons/bootstrap.svg">
 </h3>
 
 <h3 align="center">
@@ -30,3 +31,9 @@
     <img alt="LinuxMint" height=32 src="./icons/linuxmint.svg">
 </h3>
 
+<h3 align="center">
+    <img alt="" height=32 src="./icons/archlinux.svg">
+    <img alt="Debian" height=32 src="./icons/debian.svg">
+    <img alt="Ubuntu" height=32 src="./icons/ubuntu.svg">
+    <img alt="LinuxMint" height=32 src="./icons/linuxmint.svg">
+</h3>
