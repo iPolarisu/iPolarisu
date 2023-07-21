@@ -33,8 +33,13 @@
 </h3>
 
 <h3 align="center">
-    <img alt="" height=32 src="./icons/archlinux.svg">
+    <img alt="ArchLinux" height=32 src="./icons/archlinux.svg">
     <img alt="Debian" height=32 src="./icons/debian.svg">
     <img alt="Ubuntu" height=32 src="./icons/ubuntu.svg">
     <img alt="LinuxMint" height=32 src="./icons/linuxmint.svg">
+</h3>
+
+<h3 align="center">
+    <img alt="GoogleCloud" height=32 src="./icons/googlecloud.svg">
+    <img alt="Vultr" height=32 src="./icons/vultr.svg">
 </h3>
