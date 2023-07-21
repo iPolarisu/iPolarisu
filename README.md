@@ -1,4 +1,6 @@
 
+<h1 align="center"> iPolarisu </h1>
+
 <!-- programming languages -->
 <h3 align="center"> Programming Languages </h3>
 <h6 align="center">
