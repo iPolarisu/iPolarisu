@@ -1,14 +1,20 @@
+
+<!-- programming languages -->
 <h3 align="center">
     <img alt="Python" height=32 src="./icons/python.svg">
-    <img alt="JavaScript" height=32 src="./icons/javascript.svg">
     <img alt="C" height=32 src="./icons/c.svg">
+    <img alt="JavaScript" height=32 src="./icons/javascript.svg">
+    <img alt="TypeScript" height=32 src="./icons/typescript.svg">
+    <img alt="Java" height=32 src="./icons/java.svg">
+    <!--
     <img alt="C++" height=32 src="./icons/cplusplus.svg">
     <img alt="GO" height=32 src="./icons/go.svg">
+    -->
     <img alt="GDScript" height=32 src="./icons/godotengine.svg">
-    <img alt="Java" height=32 src="./icons/openjdk.svg">
-    <img alt="TypeScript" height=32 src="./icons/typescript.svg">
+    <!-- Java icon by icons8 -->
 </h3>
 
+<!-- web dev -->
 <h3 align="center">
     <img alt="HTML" height=32 src="./icons/html5.svg">
     <img alt="CSS" height=32 src="./icons/css3.svg">
@@ -22,6 +28,7 @@
     <img alt="Hugo" height=32 src="./icons/hugo.svg">
 </h3>
 
+<!-- data -->
 <h3 align="center">
     <img alt="SQLite" height=32 src="./icons/sqlite.svg">
     <img alt="MySQL" height=32 src="./icons/mysql.svg">
@@ -30,12 +37,14 @@
     <img alt="ApacheHadoop" height=32 src="./icons/apachehadoop.svg">
 </h3>
 
+<!-- vcs -->
 <h3 align="center">
     <img alt="Git" height=32 src="./icons/git.svg">
     <img alt="Github" height=32 src="./icons/github.svg">
     <img alt="Gitlab" height=32 src="./icons/gitlab.svg">
 </h3>
 
+<!-- linux distros -->
 <h3 align="center">
     <img alt="ArchLinux" height=32 src="./icons/archlinux.svg">
     <img alt="Debian" height=32 src="./icons/debian.svg">
@@ -43,6 +52,7 @@
     <img alt="LinuxMint" height=32 src="./icons/linuxmint.svg">
 </h3>
 
+<!-- cloud -->
 <h3 align="center">
     <img alt="Heroku" height=32 src="./icons/heroku.svg">
     <img alt="GoogleCloud" height=32 src="./icons/googlecloud.svg">
