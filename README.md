@@ -21,3 +21,10 @@
     <img alt="Github" height=32 src="./icons/github.svg">
     <img alt="Gitlab" height=32 src="./icons/gitlab.svg">
 </h3>
+
+<h3 align="center">
+    <img alt="Arch" height=32 src="./icons/archlinux.svg">
+    <img alt="Debian" height=32 src="./icons/debian.svg">
+    <img alt="Ubuntu" height=32 src="./icons/ubuntu.svg">
+    <img alt="LinuxMint" height=32 src="./icons/linuxmint.svg">
+</h3>
