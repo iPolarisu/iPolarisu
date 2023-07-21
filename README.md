@@ -19,16 +19,17 @@
 </h3>
 
 <h3 align="center">
-    <img alt="Git" height=32 src="./icons/git.svg">
-    <img alt="Github" height=32 src="./icons/github.svg">
-    <img alt="Gitlab" height=32 src="./icons/gitlab.svg">
+    <img alt="SQLite" height=32 src="./icons/sqlite.svg">
+    <img alt="MySQL" height=32 src="./icons/mysql.svg">
+    <img alt="Postgresql" height=32 src="./icons/postgresql.svg">
+    <img alt="MongoDB" height=32 src="./icons/mongodb.svg">
+    <img alt="ApacheHadoop" height=32 src="./icons/apachehadoop.svg">
 </h3>
 
 <h3 align="center">
-    <img alt="Arch" height=32 src="./icons/archlinux.svg">
-    <img alt="Debian" height=32 src="./icons/debian.svg">
-    <img alt="Ubuntu" height=32 src="./icons/ubuntu.svg">
-    <img alt="LinuxMint" height=32 src="./icons/linuxmint.svg">
+    <img alt="Git" height=32 src="./icons/git.svg">
+    <img alt="Github" height=32 src="./icons/github.svg">
+    <img alt="Gitlab" height=32 src="./icons/gitlab.svg">
 </h3>
 
 <h3 align="center">
