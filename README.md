@@ -15,3 +15,9 @@
     <img alt="React" height=32 src="./icons/react.svg">
     <img alt="Django" height=32 src="./icons/django.svg">
 </h3>
+
+<h3 align="center">
+    <img alt="Git" height=32 src="./icons/git.svg">
+    <img alt="Github" height=32 src="./icons/github.svg">
+    <img alt="Gitlab" height=32 src="./icons/gitlab.svg">
+</h3>
