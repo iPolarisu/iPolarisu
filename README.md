@@ -1,8 +1,8 @@
-# iPolarisu
-
-
-## Programming Languages
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-
+<h3 align="center">
+    <img alt="Python" height=32 src="./icons/python.svg">
+    <img alt="JavaScript" height=32 src="./icons/javascript.svg">
+    <img alt="C" height=32 src="./icons/c.svg">
+    <img alt="C++" height=32 src="./icons/cplusplus.svg">
+    <img alt="GO" height=32 src="./icons/go.svg">
+    <img alt="GO" height=32 src="./icons/godotengine.svg">
+</h3>
