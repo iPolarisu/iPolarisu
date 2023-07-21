@@ -6,6 +6,7 @@
     <img alt="GO" height=32 src="./icons/go.svg">
     <img alt="GDScript" height=32 src="./icons/godotengine.svg">
     <img alt="Java" height=32 src="./icons/openjdk.svg">
+    <img alt="TypeScript" height=32 src="./icons/typescript.svg">
 </h3>
 
 <h3 align="center">
@@ -43,6 +44,7 @@
 </h3>
 
 <h3 align="center">
+    <img alt="Heroku" height=32 src="./icons/heroku.svg">
     <img alt="GoogleCloud" height=32 src="./icons/googlecloud.svg">
     <img alt="Vultr" height=32 src="./icons/vultr.svg">
 </h3>
