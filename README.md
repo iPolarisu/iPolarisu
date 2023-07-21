@@ -14,6 +14,7 @@
     <img alt="Angular" height=32 src="./icons/angular.svg">
     <img alt="React" height=32 src="./icons/react.svg">
     <img alt="Django" height=32 src="./icons/django.svg">
+    <img alt="Express" height=32 src="./icons/express.svg">
 </h3>
 
 <h3 align="center">
@@ -28,3 +29,4 @@
     <img alt="Ubuntu" height=32 src="./icons/ubuntu.svg">
     <img alt="LinuxMint" height=32 src="./icons/linuxmint.svg">
 </h3>
+
