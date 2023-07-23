@@ -1,7 +1,7 @@
 <h1 align="center"> iPolarisu </h1>
 
 <!-- programming languages -->
-<h3 align="center"> Programming Languages </h3>
+<h3 align="center"> Programming </h3>
 <h6 align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./icons/python-white.svg">
@@ -41,7 +41,7 @@
 </h6>
 
 <!-- web dev -->
-<h3 align="center"> Web Development </h3>
+<h3 align="center"> Web </h3>
 <h6 align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./icons/html5-white.svg">
@@ -96,7 +96,7 @@
 </h6>
 
 <!-- data -->
-<h3 align="center"> Databases </h3>
+<h3 align="center"> Data </h3>
 <h6 align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./icons/sqlite-white.svg">
@@ -126,7 +126,7 @@
 </h6>
 
 <!-- vcs -->
-<h3 align="center"> Version Control System </h3>
+<h3 align="center"> VCS </h3>
 <h6 align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./icons/git-white.svg">
@@ -148,7 +148,7 @@
 </h6>
 
 <!-- linux distros -->
-<h3 align="center"> Linux Distros </h3>
+<h3 align="center"> Linux </h3>
 <h6 align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./icons/archlinux-white.svg">
