@@ -1,9 +1,11 @@
 <h1 align="center"> iPolarisu </h1>
 
-<!-- programming languages -->
-<h3 align="center"> Programming </h3>
-<h6 align="center">
-    <picture>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <!-- Row 1 -->
+  <div style="flex-basis: 33.33%; text-align: center;">
+    <h3>Programming</h3>
+    <h6>
+      <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./icons/python-white.svg">
         <source media="(prefers-color-scheme: light)" srcset="./icons/python.svg">
         <img alt="Python" height=32 src="./icons/python.svg">
@@ -38,12 +40,12 @@
         <img alt="GDScript" height=32 src="./icons/godotengine.svg">
     </picture>
     <!-- Java icon by icons8 -->
-</h6>
-
-<!-- web dev -->
-<h3 align="center"> Web </h3>
-<h6 align="center">
-    <picture>
+    </h6>
+  </div>
+  <div style="flex-basis: 33.33%; text-align: center;">
+    <h3>Web</h3>
+    <h6>
+      <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./icons/html5-white.svg">
         <source media="(prefers-color-scheme: light)" srcset="./icons/html5.svg">
         <img alt="HTML" height=32 src="./icons/html5.svg">
@@ -93,12 +95,12 @@
         <source media="(prefers-color-scheme: light)" srcset="./icons/django.svg">
         <img alt="Django" height=32 src="./icons/django.svg">
     </picture>
-</h6>
-
-<!-- data -->
-<h3 align="center"> Data </h3>
-<h6 align="center">
-    <picture>
+    </h6>
+  </div>
+  <div style="flex-basis: 33.33%; text-align: center;">
+    <h3>Data</h3>
+    <h6>
+      <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./icons/sqlite-white.svg">
         <source media="(prefers-color-scheme: light)" srcset="./icons/sqlite.svg">
         <img alt="SQLite" height=32 src="./icons/sqlite.svg">
@@ -123,12 +125,13 @@
         <source media="(prefers-color-scheme: light)" srcset="./icons/apachehadoop.svg">
         <img alt="ApacheHadoop" height=32 src="./icons/apachehadoop.svg">
     </picture>
-</h6>
-
-<!-- vcs -->
-<h3 align="center"> VCS </h3>
-<h6 align="center">
-    <picture>
+    </h6>
+  </div>
+  <!-- Row 2 -->
+  <div style="flex-basis: 33.33%; text-align: center;">
+    <h3>VCS</h3>
+    <h6>
+      <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./icons/git-white.svg">
         <source media="(prefers-color-scheme: light)" srcset="./icons/git.svg">
         <img alt="Git" height=32 src="./icons/git.svg">
@@ -145,12 +148,12 @@
         <img alt="Gitlab" height=32 src="./icons/gitlab.svg">
     </picture>
     -->
-</h6>
-
-<!-- linux distros -->
-<h3 align="center"> Linux </h3>
-<h6 align="center">
-    <picture>
+    </h6>
+  </div>
+  <div style="flex-basis: 33.33%; text-align: center;">
+    <h3>Linux</h3>
+    <h6>
+      <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./icons/archlinux-white.svg">
         <source media="(prefers-color-scheme: light)" srcset="./icons/archlinux.svg">
         <img alt="ArchLinux" height=32 src="./icons/archlinux.svg">
@@ -170,12 +173,12 @@
         <source media="(prefers-color-scheme: light)" srcset="./icons/linuxmint.svg">
         <img alt="LinuxMint" height=32 src="./icons/linuxmint.svg">
     </picture>
-</h6>
-
-<!-- cloud -->
-<h3 align="center"> Cloud </h3>
-<h6 align="center">
-    <picture>
+    </h6>
+  </div>
+  <div style="flex-basis: 33.33%; text-align: center;">
+    <h3>Cloud</h3>
+    <h6>
+      <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./icons/heroku-white.svg">
         <source media="(prefers-color-scheme: light)" srcset="./icons/heroku.svg">
         <img alt="Heroku" height=32 src="./icons/heroku.svg">
@@ -190,4 +193,7 @@
         <source media="(prefers-color-scheme: light)" srcset="./icons/vultr.svg">
         <img alt="Vultr" height=32 src="./icons/vultr.svg">
     </picture>
-</h6>
+    </h6>
+  </div>
+</div>
+
