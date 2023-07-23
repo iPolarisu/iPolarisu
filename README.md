@@ -1,4 +1,4 @@
-<h1 align="center"> iPolarisu </h1>
+
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <!-- Row 1 -->
