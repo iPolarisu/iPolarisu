@@ -59,6 +59,16 @@
         <img alt="Sass" height=32 src="./icons/sass.svg">
     </picture>
     <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./icons/bootstrap-white.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./icons/bootstrap.svg">
+        <img alt="Bootstrap" height=32 src="./icons/bootstrap.svg">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./icons/hugo-white.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./icons/hugo.svg">
+        <img alt="Hugo" height=32 src="./icons/hugo.svg">
+    </picture>
+    <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./icons/nodedotjs-white.svg">
         <source media="(prefers-color-scheme: light)" srcset="./icons/nodedotjs.svg">
         <img alt="NodeJS" height=32 src="./icons/nodedotjs.svg">
@@ -74,24 +84,14 @@
         <img alt="React" height=32 src="./icons/react.svg">
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./icons/django-white.svg">
-        <source media="(prefers-color-scheme: light)" srcset="./icons/django.svg">
-        <img alt="Django" height=32 src="./icons/django.svg">
-    </picture>
-    <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./icons/express-white.svg">
         <source media="(prefers-color-scheme: light)" srcset="./icons/express.svg">
         <img alt="Express" height=32 src="./icons/express.svg">
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./icons/bootstrap-white.svg">
-        <source media="(prefers-color-scheme: light)" srcset="./icons/bootstrap.svg">
-        <img alt="Bootstrap" height=32 src="./icons/bootstrap.svg">
-    </picture>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./icons/hugo-white.svg">
-        <source media="(prefers-color-scheme: light)" srcset="./icons/hugo.svg">
-        <img alt="Hugo" height=32 src="./icons/hugo.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="./icons/django-white.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./icons/django.svg">
+        <img alt="Django" height=32 src="./icons/django.svg">
     </picture>
 </h6>
 
