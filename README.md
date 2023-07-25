@@ -1,5 +1,5 @@
 <h1> iPolarisu </h1>
-
+<p> I like to solve useless stuff. </p>
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <!-- Row 1 -->
   <div style="flex-basis: 33.33%; text-align: center;">
